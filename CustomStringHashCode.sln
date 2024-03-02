@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHashCode", "..\StringHashCode\StringHashCode.csproj", "{014B53A5-019C-4908-8BB9-B9303941720B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHashCode", "StringHashCode\StringHashCode.csproj", "{014B53A5-019C-4908-8BB9-B9303941720B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStringHashCode", "CustomStringHashCode\CustomStringHashCode.csproj", "{B1106E31-E091-4086-8493-9B9D5247C039}"
 EndProject
