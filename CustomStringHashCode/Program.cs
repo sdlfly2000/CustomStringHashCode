@@ -86,7 +86,7 @@ namespace CustomStringHashCode
 #if WIN32
                     // 32 bit machines.
                     int* pint = (int *)src;
-                    int len = this.Length;
+                    int len = str.Length;
                     while (len > 2)
                     {
                         hash1 = ((hash1 << 5) + hash1 + (hash1 >> 27)) ^ pint[0];
